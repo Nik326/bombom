@@ -13,3 +13,11 @@ python BOMBOM.py
 ```
 python BOMBOM(VODAFONE).py
 ```
+сразу для удобства:
+
+```
+git clone https://github.com/Nik326/bombom
+cd bombom
+pip install -r requirements.txt
+python BOMBOM.py
+```
