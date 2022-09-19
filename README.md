@@ -8,6 +8,8 @@ pip install -r requirements.txt
 для запуска:
 ```
 python BOMBOM.py 
+```
 (ИЛИ)
+```
 python BOMBOM(VODAFONE).py
 ```
